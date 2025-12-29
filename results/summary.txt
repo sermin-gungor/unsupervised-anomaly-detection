@@ -1,0 +1,10 @@
+Toplam kayıt sayısı: 705
+Tespit edilen anomali sayısı: 33
+
+--- Model Validation ---
+Anomali Oranı: 0.047
+nu Duyarlılık Testi:
+  nu=0.01 -> anomali sayısı=17
+  nu=0.03 -> anomali sayısı=23
+  nu=0.05 -> anomali sayısı=33
+  nu=0.1 -> anomali sayısı=70
